@@ -1,0 +1,20 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+TestResults/
+
+# Local environment
+.env
+
+# IDE and OS
+.vs/
+.idea/
+.vscode/
+.cursor/
+.claude/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.DS_Store
+Thumbs.db

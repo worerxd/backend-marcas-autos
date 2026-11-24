@@ -1,0 +1,12 @@
+**/.git
+**/.vs
+**/.vscode
+**/.idea
+**/*.*proj.user
+**/bin
+**/obj
+**/TestResults
+tests
+**/.env
+**/Dockerfile*
+**/.dockerignore
